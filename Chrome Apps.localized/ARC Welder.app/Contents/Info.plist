@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>BuildMachineOSBuild</key>
+	<string>19G2021</string>
+	<key>CFBundleDevelopmentRegion</key>
+	<string>en</string>
+	<key>CFBundleExecutable</key>
+	<string>app_mode_loader</string>
+	<key>CFBundleIconFile</key>
+	<string>app.icns</string>
+	<key>CFBundleIdentifier</key>
+	<string>com.google.Chrome.app.Default-emfinbmielocnlhgmfkkmkngdoccbadn</string>
+	<key>CFBundleInfoDictionaryVersion</key>
+	<string>6.0</string>
+	<key>CFBundleName</key>
+	<string>ARC Welder</string>
+	<key>CFBundlePackageType</key>
+	<string>APPL</string>
+	<key>CFBundleShortVersionString</key>
+	<string>54.5021.651.0</string>
+	<key>CFBundleSignature</key>
+	<string>????</string>
+	<key>CFBundleVersion</key>
+	<string>4280.67</string>
+	<key>CrAppModeProfileDir</key>
+	<string>Default</string>
+	<key>CrAppModeProfileName</key>
+	<string>Person 1</string>
+	<key>CrAppModeShortcutID</key>
+	<string>emfinbmielocnlhgmfkkmkngdoccbadn</string>
+	<key>CrAppModeShortcutName</key>
+	<string>ARC Welder</string>
+	<key>CrAppModeShortcutURL</key>
+	<string></string>
+	<key>CrAppModeUserDataDir</key>
+	<string>/Users/titovv/Library/Application Support/Google/Chrome/Default/Web Applications/_crx_emfinbmielocnlhgmfkkmkngdoccbadn</string>
+	<key>CrBundleIdentifier</key>
+	<string>com.google.Chrome</string>
+	<key>CrBundleVersion</key>
+	<string>87.0.4280.67</string>
+	<key>DTCompiler</key>
+	<string>com.apple.compilers.llvm.clang.1_0</string>
+	<key>DTSDKBuild</key>
+	<string>10.15</string>
+	<key>DTSDKName</key>
+	<string>macosx10.15</string>
+	<key>DTXcode</key>
+	<string>1121</string>
+	<key>DTXcodeBuild</key>
+	<string>11B53</string>
+	<key>LSEnvironment</key>
+	<dict>
+		<key>MallocNanoZone</key>
+		<string>0</string>
+	</dict>
+	<key>LSHasLocalizedDisplayName</key>
+	<true/>
+	<key>LSMinimumSystemVersion</key>
+	<string>10.10.0</string>
+	<key>NSAppleScriptEnabled</key>
+	<true/>
+	<key>NSHighResolutionCapable</key>
+	<true/>
+</dict>
+</plist>
